@@ -68,15 +68,6 @@ cal -A 1 10 2009
 
 11\. Jaki był dzień tygodnia 25 maja 1975 r. (cal i date)
 ```sh
-$ cal 5 1975
-      Maj 1975        
-ni po wt śr cz pi so  
-             1  2  3  
- 4  5  6  7  8  9 10  
-11 12 13 14 15 16 17  
-18 19 20 21 22 23 24  
-25 26 27 28 29 30 31  
-
 $ date -d "1975-5-25"
 nie, 25 maj 1975, 00:00:00 CET
 ```
