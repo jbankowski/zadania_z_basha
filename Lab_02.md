@@ -44,5 +44,4 @@ unzip archiwum2.zip
 
 ```sh
 rm temp.tar
-rmdir -r temp/
 ```
