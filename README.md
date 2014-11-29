@@ -5,3 +5,5 @@ zadania_z_basha
 
 [Laboratorium2](https://github.com/jbankowski/zadania_z_basha/blob/master/Lab_02.md)
 
+
+JACEK
